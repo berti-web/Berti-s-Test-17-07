@@ -1,0 +1,7 @@
+Berti's_Test_project_2.0/
+│
+├── main.py
+├── customer.py
+├── order.py
+├── order_item.py
+└── gift.py
